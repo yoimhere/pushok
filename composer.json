@@ -26,7 +26,6 @@
         "lib-openssl": ">=1.0.2.5",
         "ext-json": "*",
         "ext-xml": "*",
-        "ext-intl": "*",
         "web-token/jwt-signature-algorithm-ecdsa": "^2.0",
         "web-token/jwt-key-mgmt": "^2.0"
     },
