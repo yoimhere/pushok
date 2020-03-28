@@ -33,7 +33,7 @@ Or you can follow [this tutorial](https://nathanleclaire.com/blog/2016/08/11/cur
 Via Composer
 
 ``` bash
-$ composer require edamov/pushok
+$ composer require yoimhere/pushok_none_intl
 ```
 
 ## Getting Started
