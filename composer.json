@@ -1,5 +1,5 @@
 {
-    "name": "yo_imhere/pushok_noneintl",
+    "name": "yoimhere/pushok_none_intl",
     "type": "library",
     "description": "PHP client for Apple Push Notification Service (APNs) - Send push notifications to iOS using the new APNs HTTP/2 protocol with token-based (JWT with p8 private key) or certificate-based authentication",
     "keywords": [
@@ -42,7 +42,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "yo_imhere\\pushok\\": "tests"
+            "yoimhere\\pushok\\": "tests"
         }
     },
     "extra": {
@@ -50,7 +50,7 @@
             "dev-master": "0.1.x-dev"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "scripts": {
         "test": "phpunit",
