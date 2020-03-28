@@ -42,7 +42,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "edamov\\pushok\\": "tests"
+            "yo_imhere\\pushok\\": "tests"
         }
     },
     "extra": {
@@ -50,7 +50,7 @@
             "dev-master": "0.1.x-dev"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
         "test": "phpunit",
